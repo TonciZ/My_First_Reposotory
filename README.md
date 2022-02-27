@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zhichs
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning javaScript on freeCodeCamp, and compleating CS50 from Harvard.
+- 🌱 I’m currently learning javaScript on freeCodeCamp, and completing CS50 from Harvard.
 - 💞️ I’m looking to collaborate on anything using only HTML and CSS,...for now ;)
 - 📫 How to reach me  www.linkedin.com/in/zix
 
