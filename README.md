@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Zhichs
-- 👀 I’m interested in programming.
+- Right now I'm working as a QA test lead
+- Intrested in learning a little bit of everything 
 
 <!---
 Zhichs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
