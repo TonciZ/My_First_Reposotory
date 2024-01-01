@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zhichs
 - Right now I'm working as a QA test lead
 - Interested in learning a little bit of everything
-- Doing the CS50 Python course right now
+- Learning JavaScript, SQL and Python at the moment.
 - Check out my LinkedIn https://www.linkedin.com/in/zizic/
 
 <!---
