@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zhichs
+- 👋 Hi, I’m @TonciZ
 - Right now I'm working as a QA test lead
 - Interested in learning a little bit of everything
 - Learning JavaScript, SQL and Python at the moment.
